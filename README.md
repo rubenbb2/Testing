@@ -1,4 +1,3 @@
-# Testing App
 
 
 
@@ -6,13 +5,16 @@
 ```bash
 npm install 
 ```
+Enter in folder mtt broker
+Install dependencies (npm install)
 
-## Run Dev Server
+# Run Server
+Enter in folder mtt broker
+Run broker and pub
+  -node broker.js
+  -node pub.js
+
+## Run React App
 ```bash
 npm start
-```
-
-## Build To Dist Folder
-```bash
-npm run build
 ```
