@@ -1,1 +1,0 @@
-05-10-2020_00_19 -> Funciona todo, pero esta creado con componentes de clase y lo quiero migrar a componentes funcionales con hooks.
